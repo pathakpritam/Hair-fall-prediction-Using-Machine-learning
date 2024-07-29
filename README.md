@@ -8,9 +8,13 @@ This project aims to predict the likelihood of hair fall based on these factors 
 Several machine learning models were trained and evaluated:
 
 Logistic Regression
+
 Decision Tree
+
 Random Forest
+
 Gradient Boosting
+
 Support Vector Machine (SVM)
 
 # Results
