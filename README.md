@@ -32,7 +32,7 @@ Gradient Boosting: 0.5295
 SVM: 0.5165
 
 
-# Conclusion:
+# Conclusion :-
 
 This project demonstrates the application of machine learning techniques to predict hair fall based on various factors. 
 Among the models trained, the Decision Tree model performed the best with a Decision Tree accuracy of 53.55%. Future work could involve improving model performance through hyperparameter tuning, feature engineering, and exploring more advanced algorithms. 
