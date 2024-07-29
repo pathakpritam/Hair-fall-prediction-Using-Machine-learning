@@ -22,13 +22,17 @@ Support Vector Machine (SVM)
 The performance of each model was evaluated using cross-validation mean accuracy:
 
 Logistic Regression: 0.4835
+
 Decision Tree: 0.5355
+
 Random Forest: 0.5135
+
 Gradient Boosting: 0.5295
+
 SVM: 0.5165
 
 
-# Conclusion
+# Conclusion:
 
 This project demonstrates the application of machine learning techniques to predict hair fall based on various factors. 
 Among the models trained, the Decision Tree model performed the best with a Decision Tree accuracy of 53.55%. Future work could involve improving model performance through hyperparameter tuning, feature engineering, and exploring more advanced algorithms. 
